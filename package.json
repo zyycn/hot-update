@@ -15,7 +15,6 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
-    "vite-plugin-checker": "^0.10.3",
     "vue": "^3.5.21"
   },
   "devDependencies": {
@@ -30,6 +29,7 @@
     "npm-run-all2": "^8.0.4",
     "typescript": "~5.9.2",
     "vite": "^7.1.4",
+    "vite-plugin-checker": "^0.10.3",
     "vite-plugin-vue-devtools": "^8.0.1",
     "vue-tsc": "^3.0.6"
   }
